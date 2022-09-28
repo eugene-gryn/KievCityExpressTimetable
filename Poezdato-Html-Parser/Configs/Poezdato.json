@@ -1,0 +1,6 @@
+{
+  "DateTimeFormat": "dd.MM.yyyy",
+  "Host": "poezdato.net",
+  "TimeFormat": "HH.mm",
+  "TimetableLink": "/raspisanie-poezdov"
+}

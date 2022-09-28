@@ -1,0 +1,7 @@
+{
+	"Numbers": "//tbody/tr/td[2]/a",
+	"FromStations": "//tbody/tr/td[3]/a[1]",
+	"ToStations": "//tbody/tr/td[3]/a[2]",
+	"Begins": "//tbody/tr/td[4]/span",
+	"Ends": "//tbody/tr/td[5]/span"
+}

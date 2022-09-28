@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poezdato-View-Console", "Poezdato-View-Console\Poezdato-View-Console.csproj", "{4C59FFAC-D00A-469C-A85D-0683CC8762D9}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Poezdato-Html-Parser", "Poezdato-Html-Parser\Poezdato-Html-Parser.csproj", "{2AD2D8D9-5BFF-4FB0-B165-B516C203ABD6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{4C59FFAC-D00A-469C-A85D-0683CC8762D9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C59FFAC-D00A-469C-A85D-0683CC8762D9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C59FFAC-D00A-469C-A85D-0683CC8762D9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C59FFAC-D00A-469C-A85D-0683CC8762D9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2AD2D8D9-5BFF-4FB0-B165-B516C203ABD6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2AD2D8D9-5BFF-4FB0-B165-B516C203ABD6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2AD2D8D9-5BFF-4FB0-B165-B516C203ABD6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2AD2D8D9-5BFF-4FB0-B165-B516C203ABD6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {5D82F058-6564-4686-A99C-26E4304C7EBD}
+	EndGlobalSection
+EndGlobal
